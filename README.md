@@ -1,6 +1,6 @@
 # fundamentals-assessment
 
-This repository has 2 Jupyter notebooks, one for pyplot and another for CAO points comparisons 
+This repository has 2 Jupyter notebooks, one for pyplot and another for CAO points comparisons. It also contains a .txt file which should not be modified as it contains important configuration files which Binder requires to run correctly. 
 
 
 ## pyplot notebook
