@@ -2,10 +2,18 @@
 
 This repository has 2 Jupyter notebooks, one for pyplot and another for CAO points comparisons. It also contains a .txt file which should not be modified as it contains important configuration files which Binder requires to run correctly. 
 
+This repository is submitted as partial fullfillment of a H.Dip in Data Analytics in Computing
+
+## system requirements 
+
+
+To modify or run the notebooks on a local machine requires the latest version of Python. Anaconda is an easy to use version available at the following  [url](https://www.anaconda.com/) for Windows, Linux and Mac. Alternatively the static and interactive web based versions are available via the links below. 
+
+
 
 ## pyplot notebook
 
-This notebook investigates the use of pyplot and demonstrates some interesting plots that can be created by pyplot 
+This notebook investigates the use of pyplot and demonstrates some interesting plots that can be created by pyplot. 
 
 #### Static link
 The static link for this notebook is available on:
