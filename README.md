@@ -124,7 +124,7 @@ https://seaborn.pydata.org/
 
 ### CAO
 
-I used the following resources significatly in the completion of this notebook:
+I used the following resources significantly in the completion of this notebook:
 
 - `pandas` - which can be found here: https://pandas.pydata.org/
 
